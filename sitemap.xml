@@ -3,12 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://manuraj.me/posts/hello_world/</loc>
+    <lastmod>2018-05-21T01:30:18+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manuraj.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://manuraj.me/</loc>
+    <lastmod>2018-05-21T01:30:18+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://manuraj.me/posts/</loc>
+    <lastmod>2018-05-21T01:30:18+05:30</lastmod>
     <priority>0</priority>
   </url>
   
