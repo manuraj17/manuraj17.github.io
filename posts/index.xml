@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Hungry Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 May 2018 01:30:18 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 22:40:11 +0530</lastBuildDate>
     
 	<atom:link href="http://manuraj.me/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Activejob and Sidekiq</title>
+      <link>http://manuraj.me/posts/activejob_and_sidekiq/</link>
+      <pubDate>Wed, 06 Jun 2018 22:40:11 +0530</pubDate>
+      
+      <guid>http://manuraj.me/posts/activejob_and_sidekiq/</guid>
+      <description>Rails has a good framework to work with various queueing backends - Activejob
+Here, I will try to explain how Activejob queues jobs to redis using sidekiq and does not need to know any redis config on it&amp;rsquo;s own.
+You can tell the framework that you are using sidekiq as shown below:
+class Application &amp;lt; Rails::Application # ... config.active_job.queue_adapter = :sidekiq end In my setup containing Sidekiq and Redis with my rails app, I had a custom url for redis.</description>
+    </item>
     
     <item>
       <title>Hello World</title>

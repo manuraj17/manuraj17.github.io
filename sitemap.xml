@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://manuraj.me/posts/activejob_and_sidekiq/</loc>
+    <lastmod>2018-06-06T22:40:11+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://manuraj.me/posts/hello_world/</loc>
     <lastmod>2018-05-21T01:30:18+05:30</lastmod>
   </url>
@@ -14,13 +19,13 @@
   
   <url>
     <loc>http://manuraj.me/</loc>
-    <lastmod>2018-05-21T01:30:18+05:30</lastmod>
+    <lastmod>2018-06-06T22:40:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://manuraj.me/posts/</loc>
-    <lastmod>2018-05-21T01:30:18+05:30</lastmod>
+    <lastmod>2018-06-06T22:40:11+05:30</lastmod>
     <priority>0</priority>
   </url>
   
